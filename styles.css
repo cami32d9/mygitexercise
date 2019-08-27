@@ -4,7 +4,9 @@ html {
 
 nav {
   display: flex;
-  width: 100%;
+  width: 80%;
+  margin: 0 auto;
+  background-color: #e7c8c8;
 }
 
 nav a {
