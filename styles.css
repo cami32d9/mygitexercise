@@ -1,0 +1,18 @@
+html {
+  font-family: sans-serif;
+}
+
+nav {
+  display: flex;
+  width: 100%;
+}
+
+nav a {
+  border-right: 1px solid black;
+  flex-grow: 1;
+  text-align: center;
+}
+
+nav a:last-child {
+  border: none;
+}
